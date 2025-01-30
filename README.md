@@ -1,25 +1,8 @@
-# Project Name
-
-Brief description of your project.
+# personal Introduction Page 
 
 ## Features
 
-- Feature 1
-- Feature 2
-- Feature 3
+Your name as a heading
+A short bio about yourself
+A list of your hobbies or interests
 
-## Installation
-
-Instructions on how to install or set up your project.
-
-## Usage
-
-Examples of how to use your project.
-
-## Contributing
-
-Guidelines for contributing to your project.
-
-## License
-
-Information about the license for your project.
